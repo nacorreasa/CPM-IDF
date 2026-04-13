@@ -1,0 +1,10 @@
+# Ignore large climate data files
+*.nc
+*.grib
+*.grib2
+*.grb
+data/
+logs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
